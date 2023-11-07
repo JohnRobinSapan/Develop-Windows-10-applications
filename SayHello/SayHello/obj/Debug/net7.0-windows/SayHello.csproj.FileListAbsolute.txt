@@ -1,0 +1,16 @@
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\bin\Debug\net7.0-windows\SayHello.exe
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\bin\Debug\net7.0-windows\SayHello.deps.json
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\bin\Debug\net7.0-windows\SayHello.runtimeconfig.json
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\bin\Debug\net7.0-windows\SayHello.dll
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\bin\Debug\net7.0-windows\SayHello.pdb
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\obj\Debug\net7.0-windows\SayHello.Form1.resources
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\obj\Debug\net7.0-windows\SayHello.csproj.GenerateResource.cache
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\obj\Debug\net7.0-windows\SayHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\obj\Debug\net7.0-windows\SayHello.AssemblyInfoInputs.cache
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\obj\Debug\net7.0-windows\SayHello.AssemblyInfo.cs
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\obj\Debug\net7.0-windows\SayHello.csproj.CoreCompileInputs.cache
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\obj\Debug\net7.0-windows\SayHello.dll
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\obj\Debug\net7.0-windows\refint\SayHello.dll
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\obj\Debug\net7.0-windows\SayHello.pdb
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\obj\Debug\net7.0-windows\SayHello.genruntimeconfig.cache
+C:\Users\Robin Sapan\source\repos\Develop Windows 10 applications\SayHello\SayHello\obj\Debug\net7.0-windows\ref\SayHello.dll

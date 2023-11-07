@@ -1,0 +1,20 @@
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\Say hello_MarkupCompile.cache
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\Say hello_MarkupCompile.lref
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\bin\Debug\net7.0-windows\Say hello.exe
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\bin\Debug\net7.0-windows\Say hello.deps.json
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\bin\Debug\net7.0-windows\Say hello.runtimeconfig.json
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\bin\Debug\net7.0-windows\Say hello.dll
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\bin\Debug\net7.0-windows\Say hello.pdb
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\Say hello.g.resources
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\Say hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\Say hello.AssemblyInfoInputs.cache
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\Say hello.AssemblyInfo.cs
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\Say hello.csproj.CoreCompileInputs.cache
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\Say hello.dll
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\refint\Say hello.dll
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\Say hello.pdb
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\Say hello.genruntimeconfig.cache
+C:\Users\Robin Sapan\source\repos\Say hello\Say hello\obj\Debug\net7.0-windows\ref\Say hello.dll
